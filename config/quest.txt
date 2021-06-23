@@ -1,0 +1,64 @@
+(( Deckard ))
+Hello young man!
+We have a problem...
+A few years ago a horrible monster stole the protective totem of the village...
+And without this totem our village is no longer protected from enemies !
+Therefore, slimes appear around the village and attack us...
+We need you to restore peace in the village !
+For that you will have to kill the leader who is located in the Southeast...
+But before accomplishing this perilous mission...
+You're going to have to complete some quests to prepare for combat ...
+You must go see my old friend Backrith, he will give you your first quests !
+good luck !
+Wait a minute ! You must know one last thing before you go !
+There are different types of monster! their leader is a minautore ...
+And slimes, green, blue and red, the weakest are the green and the strongest the red ...
+Now that you know everything you need to know, I wish you good luck.
+
+
+(( Backrith ))
+Hello young adventurer, what are you doing here ?
+Oh I see ! Is Deckard bringing you to give you your first quest ?
+To kill the head of enemies you will need a special potion ...
+Without this potion you will not do him any damage.
+But for that I will need you to bring me the necessary ingredients.
+First i will need 6 droplets of green slime.
+
+
+(( Backrith ))
+Did you manage to collect the 6 green droplets ?
+
+(( no ))
+I'm waiting for you with the droplets here.
+(( yes ))
+Perfect, now I'm going to need 4 blue droplets.
+
+
+(( Backrith ))
+Did you manage to collect the 4 blue droplets ?
+
+(( no ))
+I'm waiting for you with the droplets here.
+(( yes ))
+Perfect, now I'm going to need 8 red droplets.
+
+
+(( Backrith ))
+Did you manage to collect the 8 red droplets ?
+
+(( no ))
+I'm waiting for you with the droplets here.
+(( yes ))
+very good ! wait here I will make this potion !
+Here it is ! this potion is extremely precious! be careful !
+Once you have killed the enemy leader you will collect the totem...
+And bring it back to Deckard.
+Good luck.
+
+
+(( Deckard ))
+oh you managed to recover the totem of our village !?
+Give it to me i'll go put it back in its place.
+You are a hero !
+No one has succeeded before you !
+You are now welcome with us!

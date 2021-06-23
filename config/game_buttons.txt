@@ -1,0 +1,6 @@
+pos : 370, 350 / size : 30, 30 / callback : 1
+pos : 370, 400 / size : 30, 30 / callback : 2
+pos : 370, 450 / size : 30, 30 / callback : 3
+pos : 370, 500 / size : 30, 30 / callback : 4
+pos : 370, 550 / size : 30, 30 / callback : 5
+pos : 370, 600 / size : 30, 30 / callback : 6

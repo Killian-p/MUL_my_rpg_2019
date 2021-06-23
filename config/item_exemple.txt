@@ -1,0 +1,10 @@
+Life;
+physical_armor;
+magical_armor;
+physical_atk;
+magical_atk;
+magic;
+crit_rate;
+crit_dmg;
+miss_chance;
+stamina;

@@ -1,0 +1,2 @@
+pos: 50, 120 / origin: 0, 0 / color: 255, 255, 255, 255 / text: "Right click to move" / character size: 40 / font: "assets/font/chocolat.ttf"
+pos: 50, 160 / origin: 0, 0 / color: 255, 255, 255, 255 / text: "Press A to execute a cleave attack" / character size: 40 / font: "assets/font/chocolat.ttf"
